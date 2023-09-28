@@ -1,0 +1,149 @@
+*{
+    margin:0;
+    font-family: Arial;
+    border:border-box;
+}
+.navbar{
+    height:60px; 
+    background-color: rgb(6, 6, 52);
+    color: white;
+    display: flex;
+    justify-content:flex-start;
+}
+.nav-logo{
+    height:50px;
+    width:45%;
+    
+}
+.logo{
+    background-image: url(amazon_web_images/amazonphoto.png);
+    height:50px;
+    background-size: cover;
+}
+.add-icon{
+    display:flex;
+}
+.p1{
+    font-size: small;
+}
+
+
+.search{
+    border-radius: 4px;
+    height:40px;
+    width:620px;
+    display:flex;
+}
+
+.navbar2{
+    background-color: #222F3D;
+    color:white;
+    display: flex;
+    width:auto;
+    height:40px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.mat p {
+    display:inline;
+    margin:10px;
+    
+}
+.mat{
+    width:90%;
+}
+.last{
+    background-color: white;
+    height:40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.backimg{
+    background-image:url("amazon_web_images/BACKGROUND.jpg");
+    background-size: cover;
+    height: 400px;
+}
+.content1{
+    display:flex;
+    padding:10px;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+.content2{
+    display:flex;
+    justify-content: space-evenly;
+    padding:20px;
+    margin:auto;
+    background-color: #e2e7e6;
+}
+
+.box0{
+    height:100px;
+    width:23%;
+    height:400px;
+    background-color: white;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding:20px 0px 15px;
+    -webkit-box-shadow: 0 0 5px #313131;
+        box-shadow: 0 0 5px #313131;
+    
+}
+.box9{
+    height:100px;
+    width:23%;
+    height:400px;
+    background-color: white;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding:20px 0px 15px;
+    -webkit-box-shadow: 0 0 5px #313131;
+        box-shadow: 0 0 5px #313131;
+}
+.box-img{
+    height:300px;
+    background-size: contain;
+    margin-top:1rem;
+    margin-bottom:1rem;
+}
+.final{
+    margin-left: 10px;
+    margin-right:10px;
+    
+}
+.final a{
+    text-decoration: none;
+    color:rgb(104, 210, 224);
+}
+.back-to{
+    background-color: #222F3D;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-last{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(6, 6, 52) ;
+    color:white;
+}
+.b1 li{
+    list-style: none;
+}
+.b2 li{
+    list-style: none;
+}
+.complete{
+    
+        height:150px;
+        margin: auto;
+        PADDING:30PX;
+        background-color:#656570;
+        color:white;
+    }
+    .complete a{
+        font-size: 27px;
+        margin: 0.5rem;
+    }
